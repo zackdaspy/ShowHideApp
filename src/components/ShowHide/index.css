@@ -1,0 +1,27 @@
+/* Write your CSS here */
+/* ShowHide.css */
+.show-hide-container {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.name {
+  color: #fa7257;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.toggle-button {
+  background-color: #fc63a7;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
